@@ -280,6 +280,242 @@
     ]
   },
   {
+    "id": "b9b44742-1d77-4812-837c-958c883175c4",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GRAVK",
+    "name": "Gravel King Slick",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700GRAVK23FB",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 23,
+        "weight": 220,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 126
+      },
+      {
+        "manufacturerProductCode": "PA700GRAVK28FB",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 28,
+        "weight": 270,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      },
+      {
+        "manufacturerProductCode": "PA700GRAVK26FB",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 26,
+        "weight": 240,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GRAVK23FBC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 23,
+        "weight": 220,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": 126
+      },
+      {
+        "manufacturerProductCode": "PA700GRAVK28FBC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 28,
+        "weight": 270,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": 126
+      },
+      {
+        "manufacturerProductCode": "PA700GRAVK26FBC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 26,
+        "weight": 240,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      }
+    ]
+  },
+  {
+    "id": "29e329ff-b368-4896-aae0-a173c28fce58",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GRAVSTLC",
+    "name": "Gravel King SK TLC",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA705GSK2621FB",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 26,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GSK32FB",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GSK35FB",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GSK38FB",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705GSK17FB",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 45,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705GSK19FB",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GSK50FB",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 50,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GSK43FB",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 43,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705GSK2621FBC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 26,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GSK32FBC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GSK35FBC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GSK38FBC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705GSK17FBC",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 45,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705GSK19FBC",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GSK50FBC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 50,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GSK43FBC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 43,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      }
+    ]
+  },
+  {
     "id": "f7b1509a-40bf-4689-868e-78077f55c79f",
     "manufacturerCode": "panaracer",
     "manufacturerProductCode": null,
@@ -314,6 +550,142 @@
         "treadColor": "black",
         "sidewallColor": "amber",
         "tpi": 66
+      }
+    ]
+  },
+  {
+    "id": "86b62035-d069-41a2-b7ef-557b9ca88ee2",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GKSS",
+    "name": "Gravel King Semi Slick",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700GKSS28B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 28,
+        "weight": 310,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      },
+      {
+        "manufacturerProductCode": "PA700GKSS28BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 28,
+        "weight": 310,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": 120
+      }
+    ]
+  },
+  {
+    "id": "bde2d17c-1886-4392-b11a-ca5334b51bb2",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GKSSTLC",
+    "name": "Gravel King Semi Slick TLC",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700GKSS32B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 330,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSS35B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 380,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSS38B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 410,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSS19B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 540,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSS43B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 43,
+        "weight": 480,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSS32BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 330,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSS35BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 380,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSS38BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 410,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSS19BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 540,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSS43BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 43,
+        "weight": 480,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
       }
     ]
   },
@@ -372,6 +744,200 @@
         "treadColor": "black",
         "sidewallColor": "dark-tan",
         "tpi": 90
+      }
+    ]
+  },
+  {
+    "id": "f8a87619-7fdd-40e5-aaff-977b0c544f9a",
+    "manufacturerCode": "ultradynamico",
+    "manufacturerProductCode": null,
+    "name": "Rose",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 490,
+        "treadColor": "grey",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 465,
+        "treadColor": "grey",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 515,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 485,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 540,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 495,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ]
+  },
+  {
+    "id": "93f98068-2c42-4042-99d1-dcddb07de9cb",
+    "manufacturerCode": "ultradynamico",
+    "manufacturerProductCode": null,
+    "name": "Mars",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 605,
+        "treadColor": "grey",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 600,
+        "treadColor": "grey",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 620,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 610,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 666,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ]
+  },
+  {
+    "id": "7a4754b6-4900-4bde-a508-9046af23c006",
+    "manufacturerCode": "ultradynamico",
+    "manufacturerProductCode": null,
+    "name": "Cava",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 490,
+        "treadColor": "grey",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 445,
+        "treadColor": "grey",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 510,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 465,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 520,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 475,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
       }
     ]
   },
