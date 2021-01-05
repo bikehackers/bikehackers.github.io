@@ -55,7 +55,8 @@
         "sidewallColor": "dark-tan",
         "tpi": 90
       }
-    ]
+    ],
+    "application": null
   },
   {
     "id": "6993be65-008d-409f-8880-1311c6b9886e",
@@ -163,6 +164,9 @@
         "sidewallColor": "brown",
         "tpi": 127
       }
+    ],
+    "application": [
+      "rough-gravel"
     ]
   },
   {
@@ -271,6 +275,9 @@
         "sidewallColor": "brown",
         "tpi": 127
       }
+    ],
+    "application": [
+      "light-gravel"
     ]
   },
   {
@@ -289,7 +296,8 @@
         "sidewallColor": "tan",
         "tpi": 260
       }
-    ]
+    ],
+    "application": null
   },
   {
     "id": "c2dfef38-e4a3-4341-b8a6-27f8da60d2d5",
@@ -317,7 +325,8 @@
         "sidewallColor": "black",
         "tpi": 300
       }
-    ]
+    ],
+    "application": null
   },
   {
     "id": "6ed50ef3-5c50-48e5-8353-9666e1ac7183",
@@ -535,7 +544,255 @@
         "sidewallColor": "tan",
         "tpi": 60
       }
-    ]
+    ],
+    "application": null
+  },
+  {
+    "id": "6f1d787c-3c83-4f9a-9dbb-493104798326",
+    "manufacturerCode": "sim-works",
+    "manufacturerProductCode": null,
+    "name": "The Homage",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 43,
+        "weight": 560,
+        "treadColor": "beige",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "clincher",
+        "width": 50,
+        "weight": 550,
+        "treadColor": "green",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "clincher",
+        "width": 50,
+        "weight": 550,
+        "treadColor": "beige",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "clincher",
+        "width": 50,
+        "weight": 550,
+        "treadColor": "burgundy",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "clincher",
+        "width": 50,
+        "weight": 550,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 43,
+        "weight": 530,
+        "treadColor": "green",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "clincher",
+        "width": 43,
+        "weight": 500,
+        "treadColor": "green",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 43,
+        "weight": 530,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "clincher",
+        "width": 43,
+        "weight": 520,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 43,
+        "weight": 530,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 43,
+        "weight": 500,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 43,
+        "weight": 560,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "clincher",
+        "width": 43,
+        "weight": 520,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "80b04b1a-e305-485b-b44e-e600284b06f0",
+    "manufacturerCode": "sim-works",
+    "manufacturerProductCode": null,
+    "name": "Super Yummy",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 56,
+        "weight": 788,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 56,
+        "weight": 825,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 56,
+        "weight": 900,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "9defdc29-14df-4b3c-811b-5550f7030a41",
+    "manufacturerCode": "sim-works",
+    "manufacturerProductCode": null,
+    "name": "Volummy",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 28,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 454,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 599,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 552,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 44,
+        "weight": 588,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 745,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      }
+    ],
+    "application": null
   },
   {
     "id": "93f98068-2c42-4042-99d1-dcddb07de9cb",
@@ -593,7 +850,8 @@
         "sidewallColor": "black",
         "tpi": null
       }
-    ]
+    ],
+    "application": null
   },
   {
     "id": "7a4754b6-4900-4bde-a508-9046af23c006",
@@ -661,7 +919,8 @@
         "sidewallColor": "black",
         "tpi": null
       }
-    ]
+    ],
+    "application": null
   },
   {
     "id": "f8a87619-7fdd-40e5-aaff-977b0c544f9a",
@@ -729,7 +988,8 @@
         "sidewallColor": "black",
         "tpi": null
       }
-    ]
+    ],
+    "application": null
   },
   {
     "id": "841e5b08-50e3-48a3-ab9b-a378260a8027",
@@ -747,7 +1007,234 @@
         "sidewallColor": "black",
         "tpi": 120
       }
-    ]
+    ],
+    "application": null
+  },
+  {
+    "id": "c5291ac6-e5a0-4db2-b614-cd248d5a4945",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700RACE4D",
+    "name": "Race D Evo 4",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700RACE4D25B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 240,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700RACE4D28B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 260,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "5b85628d-7524-4de0-9265-ccaea63c1736",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GKEXTP",
+    "name": "Gravel King EXT+ TLC",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700GKEXTP35B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 420,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKEXTP38B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 460,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKEXTP33B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 33,
+        "weight": 370,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKEXTP35BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 420,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKEXTP38BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 460,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKEXTP33BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 33,
+        "weight": 370,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "2f61222f-ec89-4ea5-adf1-4330adf244e7",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700TOURP",
+    "name": "Tour Guard Plus",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700TOURGP25B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 620,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700TOURGP28B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 690,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700TOURGP32B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 835,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700TOURGP35B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 35,
+        "weight": 895,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700TOURGP38B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 38,
+        "weight": 1080,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700TOURGP42B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 42,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "0fe7da35-53f0-4896-88c6-ba56e147d0c5",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700RIBF",
+    "name": "RiBMo",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700RIB23FB",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700RIB25FB",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700RIB28FB",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700RIB32FB",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700RIB35FB",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 35,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": null
   },
   {
     "id": "f7b1509a-40bf-4689-868e-78077f55c79f",
@@ -785,7 +1272,8 @@
         "sidewallColor": "amber",
         "tpi": 66
       }
-    ]
+    ],
+    "application": null
   },
   {
     "id": "bde2d17c-1886-4392-b11a-ca5334b51bb2",
@@ -893,7 +1381,8 @@
         "sidewallColor": "brown",
         "tpi": null
       }
-    ]
+    ],
+    "application": null
   },
   {
     "id": "86b62035-d069-41a2-b7ef-557b9ca88ee2",
@@ -904,7 +1393,7 @@
       {
         "manufacturerProductCode": "PA700GKSS28B",
         "bsd": 622,
-        "type": "tubeless",
+        "type": "clincher",
         "width": 28,
         "weight": 310,
         "treadColor": "black",
@@ -914,14 +1403,339 @@
       {
         "manufacturerProductCode": "PA700GKSS28BC",
         "bsd": 622,
-        "type": "tubeless",
+        "type": "clincher",
         "width": 28,
         "weight": 310,
         "treadColor": "black",
         "sidewallColor": "brown",
         "tpi": 120
       }
-    ]
+    ],
+    "application": null
+  },
+  {
+    "id": "838ff64f-2d7c-4799-9eab-627d8336f52a",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700RACE4C",
+    "name": "Race C Evo 4",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700RACE4C28BC",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 220,
+        "treadColor": "black",
+        "sidewallColor": "amber",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700RACE4C26BC",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 26,
+        "weight": 230,
+        "treadColor": "black",
+        "sidewallColor": "amber",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "bf482ce5-a34e-4dc2-86d1-8b5fbcb89210",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700TSERF",
+    "name": "T-Serv PT",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700TSERF25B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 250,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700TSERF28B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 270,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700TSERF32B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 350,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700TSERF35B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 35,
+        "weight": 440,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700TSERF717B",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 44,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "adb0a985-beaa-4025-aa10-5602c68430bf",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GKSKP",
+    "name": "Gravel King SK+ TLC",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700GKSKP32B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSKP35B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSKP38B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSKP19B",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSKP50B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 50,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSKP43B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 43,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSKP32BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSKP35BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSKP38BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSKP19BC",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSKP50BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 50,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSKP43BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 43,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "c161e614-d5bb-4c39-8875-bdf9ea8a8498",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA705DRIVE",
+    "name": "Driver Pro TBC",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA705DRPF274FB",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 61,
+        "weight": 790,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705DRPF276FB",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 810,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705DRPF294FB",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 61,
+        "weight": 850,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "b594e018-3ceb-40db-a92e-7b8f019dcf0b",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GKSSP",
+    "name": "Gravel King Semi Slick+",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700GKSSP28B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 340,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSSP28BC",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 340,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "302a6917-2797-496f-bcb2-706f474ee84a",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA705ALI",
+    "name": "Aliso ST",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA705ALIF274B",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 61,
+        "weight": 1030,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705ALIF276B",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1060,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705ALIF294B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 61,
+        "weight": 1180,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": null
   },
   {
     "id": "b9b44742-1d77-4812-837c-958c883175c4",
@@ -932,7 +1746,7 @@
       {
         "manufacturerProductCode": "PA700GRAVK23FB",
         "bsd": 622,
-        "type": "tubeless",
+        "type": "clincher",
         "width": 23,
         "weight": 220,
         "treadColor": "black",
@@ -942,7 +1756,7 @@
       {
         "manufacturerProductCode": "PA700GRAVK28FB",
         "bsd": 622,
-        "type": "tubeless",
+        "type": "clincher",
         "width": 28,
         "weight": 270,
         "treadColor": "black",
@@ -952,7 +1766,7 @@
       {
         "manufacturerProductCode": "PA700GRAVK26FB",
         "bsd": 622,
-        "type": "tubeless",
+        "type": "clincher",
         "width": 26,
         "weight": 240,
         "treadColor": "black",
@@ -962,7 +1776,7 @@
       {
         "manufacturerProductCode": "PA700GRAVK23FBC",
         "bsd": 622,
-        "type": "tubeless",
+        "type": "clincher",
         "width": 23,
         "weight": 220,
         "treadColor": "black",
@@ -972,7 +1786,7 @@
       {
         "manufacturerProductCode": "PA700GRAVK28FBC",
         "bsd": 622,
-        "type": "tubeless",
+        "type": "clincher",
         "width": 28,
         "weight": 270,
         "treadColor": "black",
@@ -982,14 +1796,291 @@
       {
         "manufacturerProductCode": "PA700GRAVK26FBC",
         "bsd": 622,
-        "type": "tubeless",
+        "type": "clincher",
         "width": 26,
         "weight": 240,
         "treadColor": "black",
         "sidewallColor": "brown",
         "tpi": null
       }
-    ]
+    ],
+    "application": null
+  },
+  {
+    "id": "0b95ab50-3ffe-41e3-b8a7-17639dd79168",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GKP",
+    "name": "Gravel King Slick+",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700GKP28B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 300,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKP26B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 26,
+        "weight": 260,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKP28BC",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 300,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKP26BC",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 26,
+        "weight": 260,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "b8b30a16-b54c-4a71-96f4-521188c06ff3",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GKAC",
+    "name": "Gravel King AC TLC",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700GKAC35B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 360,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKAC33B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 33,
+        "weight": 300,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKAC35BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 360,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKAC33BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 33,
+        "weight": 300,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "f9079093-07a4-4ef1-a06e-f95140222aa9",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GRAVKTLC",
+    "name": "Gravel King Slick TLC",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700GR32FB",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GRAVK35FB",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GRAVK38FB",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705GRK15FB",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 38,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705GRK17FB",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 44,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705GRK19FB",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GRAVK32FBC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GRAVK35FBC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GRAVK38FBC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705GRK15FBC",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 38,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705GRK17FBC",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 44,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705GRK19FBC",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "49a505bb-e276-43f2-b146-5a2cc4e527f3",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA705FIR2F5TLC",
+    "name": "Fire XC Pro",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA705FIR2FBTLC",
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 53,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705FIR2F5TLC",
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 53,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "red",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705FI1TLC",
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 53,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "blue",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705FI9TLC",
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 53,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "yellow",
+        "tpi": null
+      }
+    ],
+    "application": null
   },
   {
     "id": "29e329ff-b368-4896-aae0-a173c28fce58",
@@ -1157,6 +2248,449 @@
         "sidewallColor": "brown",
         "tpi": null
       }
-    ]
+    ],
+    "application": null
+  },
+  {
+    "id": "67f0a22c-5819-4147-86b0-8c58c6d392b3",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GKEXT",
+    "name": "Gravel King EXT TLC",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700GKEXT35B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 380,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKEXT38B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 420,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKEXT33B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 33,
+        "weight": 330,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKEXT35BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 380,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKEXT38BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 420,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKEXT33BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 33,
+        "weight": 330,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "10a6473e-fb42-4d6a-80e1-fe39b79d4cc0",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA705ROMT",
+    "name": "Romero HO TBC",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA705ROMTFHO274B",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 61,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705ROMTFHO276B",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 66,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705ROMTFHO294B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 61,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705ROMTFHO296B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "c7213037-5352-4b0d-854d-9ea29a3ca062",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA705ROM",
+    "name": "Romero ST TBC",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA705ROMF274B",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 61,
+        "weight": 1060,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705ROMF276B",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1090,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705ROMF294B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 61,
+        "weight": 1200,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705ROMF296B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1300,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "8d5ad328-0301-4177-9959-4997e8c6f31e",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GKPTLC",
+    "name": "Gravel King Slick+ TLC",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700GKP32B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 330,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKP35B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 350,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKP38B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 360,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKP32BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 330,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKP35BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 350,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKP38BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 360,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "aa785dca-9eb7-4721-a303-f677449c118e",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GKSSP",
+    "name": "Gravel King Semi Slick+ TLC",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700GKSSP32B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 370,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSSP35B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 420,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSSP38B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 450,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSSP19B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 590,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSSP43B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 43,
+        "weight": 530,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSSP32BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 370,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSSP35BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 420,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSSP38BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 450,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSSP19BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 590,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700GKSSP43BC",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 43,
+        "weight": 530,
+        "treadColor": "black",
+        "sidewallColor": "brown",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "82a3b2a0-139f-4e8d-8219-88b9dcd35e72",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA705ALIT",
+    "name": "Aliso HO",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA705ALITFHO274B",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 61,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705ALITFHO276B",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 66,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705ALITFHO294B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 61,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA705ALITFHO296B",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": null,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "777e825c-033c-4e9e-a462-ade39f34e38a",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700RACE4A",
+    "name": "Race A Evo 4",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700RACE4A25B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 230,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "PA700RACE4A28B",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 240,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": null
+  },
+  {
+    "id": "dcc9f288-b846-4a50-8ec6-355fb91295ce",
+    "manufacturerCode": "panaracer",
+    "manufacturerProductCode": "PA700GSK",
+    "name": "Gravel King SK",
+    "sizes": [
+      {
+        "manufacturerProductCode": "PA700GSK26FB",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 26,
+        "weight": 270,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": null
   }
 ]
