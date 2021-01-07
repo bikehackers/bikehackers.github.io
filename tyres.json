@@ -56,7 +56,11 @@
         "tpi": 90
       }
     ],
-    "application": null
+    "application": [
+      "light-gravel",
+      "rough-gravel",
+      "singletrack"
+    ]
   },
   {
     "id": "6993be65-008d-409f-8880-1311c6b9886e",
@@ -166,6 +170,7 @@
       }
     ],
     "application": [
+      "light-gravel",
       "rough-gravel"
     ]
   },
@@ -297,7 +302,9 @@
         "tpi": 260
       }
     ],
-    "application": null
+    "application": [
+      "rough-gravel"
+    ]
   },
   {
     "id": "c2dfef38-e4a3-4341-b8a6-27f8da60d2d5",
@@ -326,7 +333,9 @@
         "tpi": 300
       }
     ],
-    "application": null
+    "application": [
+      "rough-road"
+    ]
   },
   {
     "id": "6ed50ef3-5c50-48e5-8353-9666e1ac7183",
@@ -545,7 +554,10 @@
         "tpi": 60
       }
     ],
-    "application": null
+    "application": [
+      "light-gravel",
+      "rough-gravel"
+    ]
   },
   {
     "id": "6f1d787c-3c83-4f9a-9dbb-493104798326",
@@ -684,7 +696,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "light-gravel"
+    ]
   },
   {
     "id": "80b04b1a-e305-485b-b44e-e600284b06f0",
@@ -723,7 +737,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "light-gravel",
+      "rough-gravel"
+    ]
   },
   {
     "id": "9defdc29-14df-4b3c-811b-5550f7030a41",
@@ -792,7 +809,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "road",
+      "rough-road"
+    ]
   },
   {
     "id": "93f98068-2c42-4042-99d1-dcddb07de9cb",
@@ -851,7 +871,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "light-gravel",
+      "rough-gravel"
+    ]
   },
   {
     "id": "7a4754b6-4900-4bde-a508-9046af23c006",
@@ -920,7 +943,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "rough-road"
+    ]
   },
   {
     "id": "f8a87619-7fdd-40e5-aaff-977b0c544f9a",
@@ -989,7 +1014,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "rough-road",
+      "light-gravel"
+    ]
   },
   {
     "id": "841e5b08-50e3-48a3-ab9b-a378260a8027",
@@ -1002,13 +1030,15 @@
         "bsd": 622,
         "type": "tubeless",
         "width": 40,
-        "weight": null,
+        "weight": 514,
         "treadColor": "black",
         "sidewallColor": "black",
         "tpi": 120
       }
     ],
-    "application": null
+    "application": [
+      "light-gravel"
+    ]
   },
   {
     "id": "c5291ac6-e5a0-4db2-b614-cd248d5a4945",
@@ -1037,7 +1067,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "road"
+    ]
   },
   {
     "id": "5b85628d-7524-4de0-9265-ccaea63c1736",
@@ -1106,7 +1138,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "rough-gravel"
+    ]
   },
   {
     "id": "2f61222f-ec89-4ea5-adf1-4330adf244e7",
@@ -1175,7 +1209,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "road",
+      "rough-road"
+    ]
   },
   {
     "id": "0fe7da35-53f0-4896-88c6-ba56e147d0c5",
@@ -1234,7 +1271,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "road",
+      "rough-road"
+    ]
   },
   {
     "id": "f7b1509a-40bf-4689-868e-78077f55c79f",
@@ -1382,7 +1422,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "light-gravel"
+    ]
   },
   {
     "id": "86b62035-d069-41a2-b7ef-557b9ca88ee2",
@@ -1411,7 +1453,10 @@
         "tpi": 120
       }
     ],
-    "application": null
+    "application": [
+      "rough-road",
+      "light-gravel"
+    ]
   },
   {
     "id": "838ff64f-2d7c-4799-9eab-627d8336f52a",
@@ -1440,7 +1485,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "road"
+    ]
   },
   {
     "id": "bf482ce5-a34e-4dc2-86d1-8b5fbcb89210",
@@ -1499,7 +1546,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "road",
+      "rough-road"
+    ]
   },
   {
     "id": "adb0a985-beaa-4025-aa10-5602c68430bf",
@@ -1628,7 +1678,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "rough-road",
+      "light-gravel"
+    ]
   },
   {
     "id": "c161e614-d5bb-4c39-8875-bdf9ea8a8498",
@@ -1667,7 +1720,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "singletrack"
+    ]
   },
   {
     "id": "b594e018-3ceb-40db-a92e-7b8f019dcf0b",
@@ -1696,7 +1751,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "light-gravel"
+    ]
   },
   {
     "id": "302a6917-2797-496f-bcb2-706f474ee84a",
@@ -1735,7 +1792,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "singletrack"
+    ]
   },
   {
     "id": "b9b44742-1d77-4812-837c-958c883175c4",
@@ -1804,7 +1863,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "road",
+      "rough-road"
+    ]
   },
   {
     "id": "0b95ab50-3ffe-41e3-b8a7-17639dd79168",
@@ -1853,7 +1915,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "road",
+      "rough-road"
+    ]
   },
   {
     "id": "b8b30a16-b54c-4a71-96f4-521188c06ff3",
@@ -1902,7 +1967,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "rough-road",
+      "light-gravel"
+    ]
   },
   {
     "id": "f9079093-07a4-4ef1-a06e-f95140222aa9",
@@ -2031,7 +2099,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "road",
+      "rough-road"
+    ]
   },
   {
     "id": "49a505bb-e276-43f2-b146-5a2cc4e527f3",
@@ -2080,7 +2151,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "singletrack"
+    ]
   },
   {
     "id": "29e329ff-b368-4896-aae0-a173c28fce58",
@@ -2249,7 +2322,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "rough-road",
+      "light-gravel"
+    ]
   },
   {
     "id": "67f0a22c-5819-4147-86b0-8c58c6d392b3",
@@ -2318,7 +2394,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "rough-gravel"
+    ]
   },
   {
     "id": "10a6473e-fb42-4d6a-80e1-fe39b79d4cc0",
@@ -2367,7 +2445,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "singletrack"
+    ]
   },
   {
     "id": "c7213037-5352-4b0d-854d-9ea29a3ca062",
@@ -2416,7 +2496,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "singletrack"
+    ]
   },
   {
     "id": "8d5ad328-0301-4177-9959-4997e8c6f31e",
@@ -2485,7 +2567,10 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "road",
+      "rough-road"
+    ]
   },
   {
     "id": "aa785dca-9eb7-4721-a303-f677449c118e",
@@ -2594,7 +2679,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "light-gravel"
+    ]
   },
   {
     "id": "82a3b2a0-139f-4e8d-8219-88b9dcd35e72",
@@ -2643,7 +2730,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "singletrack"
+    ]
   },
   {
     "id": "777e825c-033c-4e9e-a462-ade39f34e38a",
@@ -2672,7 +2761,9 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "road"
+    ]
   },
   {
     "id": "dcc9f288-b846-4a50-8ec6-355fb91295ce",
@@ -2691,6 +2782,8 @@
         "tpi": null
       }
     ],
-    "application": null
+    "application": [
+      "rough-road"
+    ]
   }
 ]
