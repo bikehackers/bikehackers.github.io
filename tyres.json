@@ -1,5 +1,186 @@
 [
   {
+    "id": "bb19c3ab-3a6c-4236-9056-68645d466718",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "stampede-pass",
+    "name": "Stampede Pass",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 291,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 254,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 254,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
+    "id": "5e31cf4f-f7ad-4e84-bdc5-3962b5eb38ad",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "bon-jon-pass-tc",
+    "name": "Bon Jon Pass TC",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 355,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 303,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 303,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 355,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
+    "id": "aa041a8b-6b8d-4be0-aed4-4284d57221e8",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "oracle-ridge-tc",
+    "name": "Oracle Ridge",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 545,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 515,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 545,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "270fe754-5c6a-4cdb-8f01-d78dafabd16c",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "chinook-pass-tc",
+    "name": "Chinook Pass TC",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 248,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 225,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 225,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
+    ]
+  },
+  {
     "id": "4b484cca-7af8-4224-ac6c-98d12a0474b0",
     "manufacturerCode": "rene-herse",
     "manufacturerProductCode": "hurricane-ridge-tc",
@@ -60,6 +241,331 @@
       "light-gravel",
       "rough-gravel",
       "singletrack"
+    ]
+  },
+  {
+    "id": "f1b6f968-85ef-440e-99b3-0f1ecc8b6d62",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "snoqualmie-pass-tc",
+    "name": "Snoqualmie Pass TC",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 44,
+        "weight": 375,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 44,
+        "weight": 330,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 44,
+        "weight": 330,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 44,
+        "weight": 425,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 44,
+        "weight": 445,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
+    "id": "2758688f-a195-4b4a-a2c4-7ca62276e589",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "barlow-pass-tc",
+    "name": "Barlow Pass TC",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 385,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 350,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 350,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 385,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
+    "id": "aa041a8b-6b8d-4be0-aed4-4284d57221e8",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "steilacoom-tc",
+    "name": "Steilacoom TC",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 445,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 388,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 388,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 445,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "rough-road",
+      "light-gravel",
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "1907c57f-c944-43e3-97ea-6594ed987ca9",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "fleecer-ridge-tc",
+    "name": "Fleecer Ridge",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 650,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 595,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 665,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 700,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "27ba6ac3-bed8-4eba-8418-91c957c7aa14",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "antelope-hill-tc",
+    "name": "Antelope Hill TC",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 535,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 465,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 465,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 535,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 570,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
+    "id": "d0803f19-e142-43d2-9473-dfe3f642a75a",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "cayuse-pass",
+    "name": "Cayuse Pass",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 26,
+        "weight": 222,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 26,
+        "weight": 183,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 26,
+        "weight": 183,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road"
     ]
   },
   {
