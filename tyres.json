@@ -1,5 +1,79 @@
 [
   {
+    "id": "426d11e5-936a-44c4-ab73-04101b4f80a2",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "elk-pass",
+    "name": "Elk Pass",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "clincher",
+        "width": 30,
+        "weight": 178,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
+    ]
+  },
+  {
+    "id": "f1d6c6c7-dcd9-4cf4-ab0a-fc9fa59ccc9b",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "babyshoe-pass-tc",
+    "name": "Babyshoe Pass",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 410,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 373,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 373,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 410,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
     "id": "bb19c3ab-3a6c-4236-9056-68645d466718",
     "manufacturerCode": "rene-herse",
     "manufacturerProductCode": "stampede-pass",
@@ -136,6 +210,48 @@
       "light-gravel",
       "rough-gravel",
       "singletrack"
+    ]
+  },
+  {
+    "id": "80d4b460-fbfc-48ef-9428-1e970c7df03c",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "naches-pass-tc",
+    "name": "Naches Pass",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 46,
+        "weight": 350,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 46,
+        "weight": 300,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 46,
+        "weight": 300,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
     ]
   },
   {
@@ -359,6 +475,59 @@
     ]
   },
   {
+    "id": "7a8cff16-6f03-45f9-a130-53086f368f24",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "rat-trap-pass-tc",
+    "name": "Rat Trap Pass",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 58,
+        "weight": 454,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 58,
+        "weight": 418,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 58,
+        "weight": 418,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 58,
+        "weight": 500,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
     "id": "aa041a8b-6b8d-4be0-aed4-4284d57221e8",
     "manufacturerCode": "rene-herse",
     "manufacturerProductCode": "steilacoom-tc",
@@ -454,6 +623,69 @@
         "type": "tubeless",
         "width": 55,
         "weight": 700,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "d4a1339b-f85f-4002-9f0a-70551067cb50",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "juniper-ridge-tc",
+    "name": "Juniper Ridge",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 490,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 455,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 455,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 490,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 550,
         "treadColor": "black",
         "sidewallColor": "dark-tan",
         "tpi": null
@@ -566,6 +798,187 @@
     ],
     "application": [
       "road"
+    ]
+  },
+  {
+    "id": "788de769-c232-4eb5-b78e-e5478c514468",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "loup-loup-pass",
+    "name": "Loup Loup Pass",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "clincher",
+        "width": 38,
+        "weight": 354,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "clincher",
+        "width": 38,
+        "weight": 333,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "clincher",
+        "width": 38,
+        "weight": 333,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
+    "id": "bdd09bbd-53f8-4afc-b8c9-44d649e654af",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "switchback-hill-tc",
+    "name": "Switchback Hill",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 441,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 413,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 413,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 48,
+        "weight": 441,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
+    "id": "9e636668-f62b-4c1f-b218-707449de83ed",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "humptulips-ridge-tc",
+    "name": "Humptulips Ridge",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 58,
+        "weight": 525,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 58,
+        "weight": 490,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 58,
+        "weight": 585,
+        "treadColor": "black",
+        "sidewallColor": "dark-tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "9867211a-9a0f-41f7-be81-84b233133b17",
+    "manufacturerCode": "rene-herse",
+    "manufacturerProductCode": "pumpkin-ridge-tc",
+    "name": "Pumpkin Ridge",
+    "sizes": [
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 480,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 418,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 418,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel",
+      "singletrack"
     ]
   },
   {
