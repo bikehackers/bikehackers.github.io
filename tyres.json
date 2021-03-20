@@ -1257,6 +1257,546 @@
     ]
   },
   {
+    "id": "f1f7635c-5117-43dc-9408-2fb8dd487ebc",
+    "manufacturerCode": "teravail",
+    "manufacturerProductCode": null,
+    "name": "Ehline",
+    "sizes": [
+      {
+        "manufacturerProductCode": "TR2650",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 58,
+        "weight": 685,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7260",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 58,
+        "weight": 735,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7261",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 58,
+        "weight": 880,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2652",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 895,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2653",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 810,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2654",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 700,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2651",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 58,
+        "weight": 795,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7284",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 58,
+        "weight": 805,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7283",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 58,
+        "weight": 885,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2655",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 945,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2656",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 840,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2657",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 810,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "92e072fb-f34b-4814-b5fc-24c6e86fd2ba",
+    "manufacturerCode": "teravail",
+    "manufacturerProductCode": null,
+    "name": "Sparwood",
+    "sizes": [
+      {
+        "manufacturerProductCode": "TR2678",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 54,
+        "weight": 700,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2679",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 54,
+        "weight": 665,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2680",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 54,
+        "weight": 615,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7258",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 56,
+        "weight": 780,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7259",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 56,
+        "weight": 780,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7273",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 56,
+        "weight": 660,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel"
+    ]
+  },
+  {
+    "id": "f58b1013-6924-41fd-8226-3091b54baa4b",
+    "manufacturerCode": "teravail",
+    "manufacturerProductCode": null,
+    "name": "Cannonball",
+    "sizes": [
+      {
+        "manufacturerProductCode": "TR2681",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 520,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7272",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 450,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2682",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 545,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2696",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 645,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2697",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 570,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2698",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 660,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2699",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 645,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7269",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 475,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7270",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 470,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7271",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 430,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7240",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 470,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7241",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 535,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7242",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 430,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7266",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 40,
+        "weight": 530,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7267",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 40,
+        "weight": 515,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7268",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 40,
+        "weight": 500,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7291",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 540,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7292",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 525,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7293",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 515,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-road",
+      "light-gravel",
+      "rough-gravel"
+    ]
+  },
+  {
+    "id": "1763b95a-466e-48e7-9465-af68fd39d1bc",
+    "manufacturerCode": "teravail",
+    "manufacturerProductCode": null,
+    "name": "Washburn",
+    "sizes": [
+      {
+        "manufacturerProductCode": "TR2720",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 660,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2723",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 585,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2721",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 715,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2722",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 655,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2712",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 575,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2714",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 530,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2713",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 700,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2715",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 610,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2716",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 515,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2718",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 460,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2717",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 600,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2719",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 525,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-road",
+      "light-gravel",
+      "rough-gravel"
+    ]
+  },
+  {
     "id": "6ed50ef3-5c50-48e5-8353-9666e1ac7183",
     "manufacturerCode": "teravail",
     "manufacturerProductCode": "00570",
@@ -1476,6 +2016,1779 @@
     "application": [
       "light-gravel",
       "rough-gravel"
+    ]
+  },
+  {
+    "id": "f521b5d0-3c4a-4faa-84e4-f00ac47821e7",
+    "manufacturerCode": "teravail",
+    "manufacturerProductCode": null,
+    "name": "Honcho",
+    "sizes": [
+      {
+        "manufacturerProductCode": "TR2658",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 805,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7262",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 940,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7263",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 990,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2660",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1040,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2661",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 935,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2662",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 865,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2659",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 865,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7281",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 1040,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7282",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 995,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2663",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1075,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2664",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 940,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2665",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 895,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "fbb613a6-67bd-4315-b4c1-315fcbe92870",
+    "manufacturerCode": "teravail",
+    "manufacturerProductCode": null,
+    "name": "Kessel",
+    "sizes": [
+      {
+        "manufacturerProductCode": "TR2688",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1090,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2689",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1090,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2690",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1240,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2692",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 1140,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2694",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 1215,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2693",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 1140,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2684",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1180,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2685",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1180,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2686",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1400,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "b97b06fa-6493-4b85-94f2-b41b2a9f559b",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Sendero",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0826",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 621,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0846",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 657,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      },
+      {
+        "manufacturerProductCode": "W010-0759",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 568,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "63301256-0197-4d22-ae86-f92ea22de9ac",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Expanse",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0815",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 332,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0816",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 312,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
+    "id": "40de6ba4-f847-4126-94a5-c403d93a9458",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Cross Wolf",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0535",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 392,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "d4cf4d48-cb08-4e3f-90d4-b14870232a4e",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Exposure",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0639",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 30,
+        "weight": 314,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0693",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 30,
+        "weight": 302,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0813",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 36,
+        "weight": 402,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0814",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 36,
+        "weight": 351,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
+    "id": "600d1484-6a65-4067-917f-9aaa2c3047db",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "VelociRaptor",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0101",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 52,
+        "weight": 829,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0102",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 52,
+        "weight": 829,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "df725889-b821-4039-a01f-588aa76f324b",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Raddler",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0829",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 40,
+        "weight": 505,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0850",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 40,
+        "weight": 522,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      },
+      {
+        "manufacturerProductCode": "W010-0830",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 40,
+        "weight": 490,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0827",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 44,
+        "weight": 526,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0851",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 44,
+        "weight": 547,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      },
+      {
+        "manufacturerProductCode": "W010-0828",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 44,
+        "weight": 514,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel"
+    ]
+  },
+  {
+    "id": "f9ec21fb-889f-4ac4-a1dd-7808d8e98337",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Vigilante",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0537",
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 786,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0536",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 57,
+        "weight": 893,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0598",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 900,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0542",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 1140,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0541",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 1056,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0540",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 900,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0539",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 57,
+        "weight": 1040,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0545",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 1151,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0680",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 1141,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0544",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 900,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0679",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 947,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0763",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1103,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0761",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1174,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0762",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1184,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0766",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1137,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0764",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1251,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0765",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1242,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0767",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1340,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0768",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1275,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0769",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1155,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0771",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1374,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0770",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1349,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0772",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1246,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0775",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 71,
+        "weight": 1194,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0773",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 71,
+        "weight": 1209,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0774",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 71,
+        "weight": 1220,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0797",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 71,
+        "weight": 1325,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0795",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 71,
+        "weight": 1417,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0796",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 71,
+        "weight": 1387,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "f5463ef2-0308-4166-a6bf-ec75000dc1ea",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Cross Boss",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0564",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 400,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0675",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 400,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
+    "id": "3f02f2b1-2379-4893-9fdc-a6dea2b19859",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Resolute",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0682",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 440,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0849",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 525,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      },
+      {
+        "manufacturerProductCode": "W010-0681",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 460,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0848",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 565,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel"
+    ]
+  },
+  {
+    "id": "fa28dc65-1d66-4ae3-8d33-cd5f5c052ca0",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Horizon",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0698",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 532,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0640",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 515,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0842",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 571,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
+    "id": "d6ffcd5f-0075-458d-a1e7-648a1fd1e8d6",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "ThickSlick",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0614",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 245,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 480,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": null,
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 372,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "W010-0615",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 260,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "W010-0616",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 487,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "W010-0610",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 260,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "W010-0645",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 260,
+        "treadColor": "black",
+        "sidewallColor": "white",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "W010-0617",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 490,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "W010-0611",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 467,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "W010-0658",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 50,
+        "weight": 620,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "W010-0607",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 50,
+        "weight": 713,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "W010-623",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 52,
+        "weight": 786,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "W010-0613",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 52,
+        "weight": 698,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
+    ]
+  },
+  {
+    "id": "e80b8dd9-b986-4f66-951b-1475bd65736f",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Trail Boss",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0593",
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 771,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0594",
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 900,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0595",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 57,
+        "weight": 856,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0553",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 1036,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0551",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 57,
+        "weight": 891,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0518",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 1091,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0519",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 853,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0522",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 57,
+        "weight": 914,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0776",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 61,
+        "weight": 1156,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0777",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 61,
+        "weight": 1071,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0739",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 61,
+        "weight": 774,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0778",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 61,
+        "weight": 1224,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0779",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 61,
+        "weight": 1196,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0738",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 61,
+        "weight": 838,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0780",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1197,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0781",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1071,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0783",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1195,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0782",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1286,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "a7f077f4-42c5-4a30-9840-25b386e68bb0",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Venture",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0825",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 586,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0843",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 617,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      },
+      {
+        "manufacturerProductCode": "W010-0760",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 555,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-road",
+      "light-gravel",
+      "rough-gravel"
+    ]
+  },
+  {
+    "id": "835976db-e51e-48ec-8a81-bde2e8ceb3de",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Byway",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0677",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 535,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0701",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 564,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0839",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 577,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      },
+      {
+        "manufacturerProductCode": "W010-0821",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 34,
+        "weight": 396,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0822",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 34,
+        "weight": 394,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0823",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 40,
+        "weight": 426,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0824",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 40,
+        "weight": 415,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0840",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 40,
+        "weight": 463,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      },
+      {
+        "manufacturerProductCode": "W010-0819",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 44,
+        "weight": 499,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0820",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 44,
+        "weight": 479,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0841",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 44,
+        "weight": 525,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
+    "id": "999cf5a7-37e5-4cc3-946c-9163bc420115",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Ranger",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0608",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 50,
+        "weight": 635,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0669",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 685,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0668",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 762,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0691",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 870,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0667",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 700,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0666",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 791,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "41c5a354-fddc-4554-84b2-1cec9ab33113",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Nano",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0528",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 52,
+        "weight": 685,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0578",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 40,
+        "weight": 530,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0847",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 40,
+        "weight": 545,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      },
+      {
+        "manufacturerProductCode": "W010-0692",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 40,
+        "weight": 497,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0524",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 40,
+        "weight": 470,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0523",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 40,
+        "weight": 550,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "98508b49-7f7b-4f3d-a6b4-2bc83aa57fd7",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Verdict",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0745",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1066,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0743",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1260,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0749",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1193,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0747",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1291,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "0fd2b8d5-864f-4753-802e-f2627640b5bf",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Judge",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0751",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 1281,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0752",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 1323,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0755",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 1295,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0756",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 1427,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "f9544393-e44a-47db-bcd7-1a7d5d965297",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Riddler",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0641",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 37,
+        "weight": 465,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0852",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 37,
+        "weight": 481,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      },
+      {
+        "manufacturerProductCode": "W010-0694",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 37,
+        "weight": 465,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0642",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 45,
+        "weight": 560,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0853",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 45,
+        "weight": 541,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      },
+      {
+        "manufacturerProductCode": "W010-0695",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 45,
+        "weight": 560,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel"
+    ]
+  },
+  {
+    "id": "e7a62939-49d6-4cdd-af40-928dbad0bb7a",
+    "manufacturerCode": "wtb",
+    "manufacturerProductCode": null,
+    "name": "Verdict Wet",
+    "sizes": [
+      {
+        "manufacturerProductCode": "W010-0799",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1266,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "W010-0801",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 64,
+        "weight": 1332,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
     ]
   },
   {
