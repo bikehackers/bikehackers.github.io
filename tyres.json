@@ -1,5 +1,717 @@
 [
   {
+    "id": "7ae3191d-b156-4527-adda-0af2a8060c34",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Terreno Wet",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00079",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 31,
+        "weight": 390,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00080",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 33,
+        "weight": 410,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00081",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 500,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel"
+    ]
+  },
+  {
+    "id": "0a7f8f55-3e9b-45f5-a8fd-efd4fcad8c3f",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Terreno Zero",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00342",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 440,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00087",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 560,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00224",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 380,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00222",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 465,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00085",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 510,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00284",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 35,
+        "weight": 730,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00285",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 38,
+        "weight": 732,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00261",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 35,
+        "weight": 750,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00262",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 38,
+        "weight": 742,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "rough-road",
+      "light-gravel"
+    ]
+  },
+  {
+    "id": "26b0cb8a-f833-4f6d-9469-59d84ed02a78",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Barzo",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00012",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 52,
+        "weight": 610,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00015",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 660,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00345",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 725,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00002",
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 52,
+        "weight": 650,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00004",
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 660,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00006",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 52,
+        "weight": 670,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00010",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 805,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00008",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 680,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00009",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 700,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00013",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 52,
+        "weight": 650,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00199",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 820,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00016",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 680,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00017",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 745,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113S32352111TG",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 52,
+        "weight": 770,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113S32365111TG",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 65,
+        "weight": 1050,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113S32355111TG",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 55,
+        "weight": 790,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113S42352111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 52,
+        "weight": 750,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113S42355111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 55,
+        "weight": 800,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "9aa51ace-d189-4cc3-9f45-c49cb47522f9",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Terreno Dry",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00288",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 40,
+        "weight": 450,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00071",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 550,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00068",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 31,
+        "weight": 400,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00069",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 33,
+        "weight": 410,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00265",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 470,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00070",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 490,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00286",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 35,
+        "weight": 707,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00287",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 38,
+        "weight": 698,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00263",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 35,
+        "weight": 721,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00264",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 38,
+        "weight": 721,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel"
+    ]
+  },
+  {
+    "id": "1d874b19-e435-4e53-9718-54fdd257e8f8",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Terreno Mix",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00074",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 31,
+        "weight": 380,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00075",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 33,
+        "weight": 420,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00076",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 500,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00283",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 33,
+        "weight": 618,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00260",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 33,
+        "weight": 640,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "light-gravel",
+      "rough-gravel"
+    ]
+  },
+  {
+    "id": "79002289-8394-420d-8c2c-592c9e64b24b",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Mezcal",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00033",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 52,
+        "weight": 640,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00036",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 690,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00346",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 725,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00027",
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 52,
+        "weight": 620,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00028",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 52,
+        "weight": 660,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00031",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 830,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00029",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 670,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00030",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 680,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00034",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 52,
+        "weight": 680,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00039",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 870,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00037",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 725,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00038",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 735,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00225",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 35,
+        "weight": 440,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113M12352111TG",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 52,
+        "weight": 755,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113M22352111TG",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 52,
+        "weight": 770,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113M22365111TG",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 65,
+        "weight": 1020,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113M22355111TG",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 55,
+        "weight": 820,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113M32352111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 52,
+        "weight": 830,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113M32365111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 65,
+        "weight": 1070,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
     "id": "426d11e5-936a-44c4-ab73-04101b4f80a2",
     "manufacturerCode": "rene-herse",
     "manufacturerProductCode": "elk-pass",
@@ -1389,6 +2101,58 @@
     ]
   },
   {
+    "id": "16f189f6-c118-42d8-83da-9936132c6fb6",
+    "manufacturerCode": "teravail",
+    "manufacturerProductCode": null,
+    "name": "Cumberland",
+    "sizes": [
+      {
+        "manufacturerProductCode": "TR7212",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 71,
+        "weight": 1015,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7213",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 71,
+        "weight": 1120,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7217",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1015,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7218",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1135,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
     "id": "92e072fb-f34b-4814-b5fc-24c6e86fd2ba",
     "manufacturerCode": "teravail",
     "manufacturerProductCode": null,
@@ -1661,6 +2425,58 @@
       "rough-road",
       "light-gravel",
       "rough-gravel"
+    ]
+  },
+  {
+    "id": "dffbabfa-2a80-40b6-84da-7bd7453e2691",
+    "manufacturerCode": "teravail",
+    "manufacturerProductCode": null,
+    "name": "Kennebec",
+    "sizes": [
+      {
+        "manufacturerProductCode": "TR7219",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1005,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7220",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 66,
+        "weight": 1125,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7210",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 71,
+        "weight": 1125,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7211",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 71,
+        "weight": 1230,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
     ]
   },
   {
@@ -2148,6 +2964,259 @@
     "application": [
       "rough-gravel",
       "singletrack"
+    ]
+  },
+  {
+    "id": "a6774132-a5a5-4f9c-9a86-fda741963769",
+    "manufacturerCode": "teravail",
+    "manufacturerProductCode": null,
+    "name": "Coronado",
+    "sizes": [
+      {
+        "manufacturerProductCode": "TR7257",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 76,
+        "weight": 1075,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7256",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 76,
+        "weight": 970,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7288",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 76,
+        "weight": 935,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7255",
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 100,
+        "weight": 1405,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7254",
+        "bsd": 559,
+        "type": "tubeless",
+        "width": 100,
+        "weight": 1135,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 120
+      },
+      {
+        "manufacturerProductCode": "TR7294",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 71,
+        "weight": 1090,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7295",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 71,
+        "weight": 1175,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7296",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 71,
+        "weight": 990,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "30fa5ce4-ae17-42a5-8911-0bcf2c8d961f",
+    "manufacturerCode": "teravail",
+    "manufacturerProductCode": null,
+    "name": "Rampart",
+    "sizes": [
+      {
+        "manufacturerProductCode": "TR7264",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 545,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7265",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 550,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7274",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 47,
+        "weight": 510,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7275",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 28,
+        "weight": 335,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7276",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 28,
+        "weight": 380,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7277",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 28,
+        "weight": 280,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2683",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 320,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7278",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 390,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7279",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 32,
+        "weight": 455,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7297",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 515,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7298",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 570,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR7299",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 38,
+        "weight": 435,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2666",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 530,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2667",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 520,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 60
+      },
+      {
+        "manufacturerProductCode": "TR2668",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 42,
+        "weight": 460,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": 60
+      }
+    ],
+    "application": [
+      "road"
     ]
   },
   {
