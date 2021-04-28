@@ -1,5 +1,402 @@
 [
   {
+    "id": "afcd3aaf-d2f8-4ec3-bbf5-0d10f7330ed4",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Corsa Speed",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00120",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 200,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00121",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 200,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00122",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 205,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00123",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 205,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00118",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 23,
+        "weight": 225,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00119",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 25,
+        "weight": 240,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road"
+    ]
+  },
+  {
+    "id": "6d7c0c48-c1b2-4343-9b64-628bdacdf6bf",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Martello",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00051",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 940,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00054",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 1000,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00052",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1250,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00050",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 1160,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00053",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 1260,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "singletrack"
+    ]
+  },
+  {
+    "id": "836979f8-aa86-40a5-830b-69d75850d817",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Saguard",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00320",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 785,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
+    ]
+  },
+  {
+    "id": "57871d54-4737-4fbd-b6e4-6df040be30e7",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Evolution",
+    "sizes": [
+      {
+        "manufacturerProductCode": "1113V92348111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 46,
+        "weight": 950,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113VV2348111TG",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 48,
+        "weight": 790,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
+    ]
+  },
+  {
+    "id": "f8f85c7b-0cee-4cd4-8c76-68da2daa0a05",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Corsa",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00097",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 275,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00098",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 275,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00099",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 290,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00100",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 290,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00101",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 360,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00102",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 360,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00255",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 30,
+        "weight": 375,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00256",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 30,
+        "weight": 375,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00093",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 290,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00096",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 28,
+        "weight": 310,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00089",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 245,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00090",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 245,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00091",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 255,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00092",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 255,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00094",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 270,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00095",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 270,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00220",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 30,
+        "weight": 275,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00219",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 30,
+        "weight": 275,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00347",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 290,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00348",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 290,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road"
+    ]
+  },
+  {
     "id": "7ae3191d-b156-4527-adda-0af2a8060c34",
     "manufacturerCode": "vittoria",
     "manufacturerProductCode": null,
@@ -141,6 +538,140 @@
     "application": [
       "rough-road",
       "light-gravel"
+    ]
+  },
+  {
+    "id": "af4a9b58-e58d-46ae-b42e-3dc5d4194525",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Randonneur Tech",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00168",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 40,
+        "weight": 770,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00169",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 47,
+        "weight": 810,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00170",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 490,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00171",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 580,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00172",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 37,
+        "weight": 670,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00174",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 40,
+        "weight": 720,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00175",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 42,
+        "weight": 800,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00176",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 50,
+        "weight": 970,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
+    ]
+  },
+  {
+    "id": "6758ff5d-b3ad-41cc-b73b-7f022f0e993d",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Adventure Tech",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00164",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 645,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00166",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 38,
+        "weight": 840,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00165",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 35,
+        "weight": 740,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
     ]
   },
   {
@@ -448,6 +979,232 @@
     ]
   },
   {
+    "id": "8937d77b-f63d-439a-bdcb-f6261befb9b5",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Randonneur Reflective",
+    "sizes": [
+      {
+        "manufacturerProductCode": "111344B547111TG",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 47,
+        "weight": 762,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "111344B554111TG",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 54,
+        "weight": 953,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "111344B428111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 502,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "111344B432111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 581,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "111344B437111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 35,
+        "weight": 608,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "111344B540111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 38,
+        "weight": 665,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "111344B442111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 40,
+        "weight": 795,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "111344B447111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 45,
+        "weight": 851,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
+    ]
+  },
+  {
+    "id": "998e960a-499c-4695-8b00-f68141fa7ec2",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Rubino Pro Control",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00149",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 290,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00150",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 300,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00151",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 340,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
+    ]
+  },
+  {
+    "id": "2ca088f9-6ed4-42eb-9052-68e023c8f5a6",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Urbano",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00271",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 667,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00272",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 749,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00273",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 35,
+        "weight": 887,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00274",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 38,
+        "weight": 942,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00275",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 40,
+        "weight": 965,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00276",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 45,
+        "weight": 1151,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00277",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 47,
+        "weight": 1061,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00278",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 47,
+        "weight": 1066,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
+    ]
+  },
+  {
     "id": "1d874b19-e435-4e53-9718-54fdd257e8f8",
     "manufacturerCode": "vittoria",
     "manufacturerProductCode": null,
@@ -507,6 +1264,70 @@
     "application": [
       "light-gravel",
       "rough-gravel"
+    ]
+  },
+  {
+    "id": "c333af1a-7a67-4385-9bcc-fe0c23c1c000",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Roadster",
+    "sizes": [
+      {
+        "manufacturerProductCode": "1113RD2340111TG",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 38,
+        "weight": 650,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113R92340111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 38,
+        "weight": 720,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
+    ]
+  },
+  {
+    "id": "5d6666dd-87dd-4b16-84e6-7e0f052d4f67",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Terreno",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00065",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 52,
+        "weight": 600,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00067",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 55,
+        "weight": 650,
+        "treadColor": "black",
+        "sidewallColor": "tan",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "rough-gravel",
+      "singletrack"
     ]
   },
   {
@@ -709,6 +1530,909 @@
     "application": [
       "rough-gravel",
       "singletrack"
+    ]
+  },
+  {
+    "id": "f8e67f45-f9a1-4e06-a022-e67347fd2421",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Randonneur",
+    "sizes": [
+      {
+        "manufacturerProductCode": "1113442428111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 502,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113442432111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 581,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113442437111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 35,
+        "weight": 608,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113442442111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 40,
+        "weight": 795,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113442540111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 38,
+        "weight": 665,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113442547111TG",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 47,
+        "weight": 762,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113442554111TG",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 54,
+        "weight": 953,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "1113442447111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 47,
+        "weight": 851,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
+    ]
+  },
+  {
+    "id": "467ea69d-a3d7-400d-8f42-134dadc99eef",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Revolution Tech",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00177",
+        "bsd": 559,
+        "type": "clincher",
+        "width": 50,
+        "weight": 1120,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00178",
+        "bsd": 584,
+        "type": "clincher",
+        "width": 50,
+        "weight": 1170,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00179",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 540,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00180",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 50,
+        "weight": 1270,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00181",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 580,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00182",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 35,
+        "weight": 780,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00183",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 38,
+        "weight": 790,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
+    ]
+  },
+  {
+    "id": "96fb19c5-bbb9-4238-834f-97710e96cb76",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Corsa Control",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00112",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 295,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00113",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 295,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00114",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 350,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00115",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 350,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00116",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 30,
+        "weight": 370,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00117",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 30,
+        "weight": 370,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00105",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 25,
+        "weight": 300,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00108",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 28,
+        "weight": 315,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00111",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 30,
+        "weight": 320,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00103",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 265,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00104",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 265,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00106",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 280,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00107",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 280,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00109",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 30,
+        "weight": 280,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00110",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 30,
+        "weight": 280,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road",
+      "rough-road"
+    ]
+  },
+  {
+    "id": "01da2663-45f3-43a5-b267-864802ba8e3d",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Zaffiro Pro",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00294",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 310,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00295",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 340,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00296",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 30,
+        "weight": 385,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00297",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 32,
+        "weight": 395,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road"
+    ]
+  },
+  {
+    "id": "f399cdaa-5301-47e4-aafa-9bdb0fe78635",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Rally",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11110V0923111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 310,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 220
+      },
+      {
+        "manufacturerProductCode": "11110V0921111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 21,
+        "weight": 300,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 220
+      },
+      {
+        "manufacturerProductCode": "11110V0921411TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 21,
+        "weight": 300,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": 220
+      },
+      {
+        "manufacturerProductCode": "11110V0925111TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 320,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 220
+      },
+      {
+        "manufacturerProductCode": "11110V0925411TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 320,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": 220
+      },
+      {
+        "manufacturerProductCode": "11110V0923411TG",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 310,
+        "treadColor": "black",
+        "sidewallColor": "beige",
+        "tpi": 220
+      }
+    ],
+    "application": [
+      "road"
+    ]
+  },
+  {
+    "id": "de53deb2-29f3-424c-8988-39327e114d8e",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Agarro",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00196",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 940,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00197",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 850,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00194",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 970,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00195",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 940,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "singletrack"
+    ]
+  },
+  {
+    "id": "d4aea37d-9559-4d68-a224-fbb66c2d511f",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Mazza",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00230",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 950,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00231",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1030,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00232",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1100,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00229",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 890,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00279",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 1200,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00280",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 60,
+        "weight": 1300,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00281",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1300,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00282",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1400,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "singletrack"
+    ]
+  },
+  {
+    "id": "8f324e77-1e6a-43cc-b30f-622d275f70e1",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Rubino Pro",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00146",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 285,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00147",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 295,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00148",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 335,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00141",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 25,
+        "weight": 305,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00143",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 28,
+        "weight": 335,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00145",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 30,
+        "weight": 370,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00134",
+        "bsd": 571,
+        "type": "clincher",
+        "width": 23,
+        "weight": 205,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00135",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 230,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00137",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 250,
+        "treadColor": "black",
+        "sidewallColor": "red",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00140",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 250,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00136",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 250,
+        "treadColor": "black",
+        "sidewallColor": "blue",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00139",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 250,
+        "treadColor": "black",
+        "sidewallColor": "yellow",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00138",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 250,
+        "treadColor": "black",
+        "sidewallColor": "white",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00142",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 28,
+        "weight": 270,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00144",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 30,
+        "weight": 300,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "road"
+    ]
+  },
+  {
+    "id": "f6480211-5aff-4222-935e-6016d670e45a",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Martello",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00023",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1100,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00024",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 70,
+        "weight": 1140,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00021",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 920,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00200",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1100,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00026",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 960,
+        "treadColor": "black",
+        "sidewallColor": "grey",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00022",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1230,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00213",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 70,
+        "weight": 1230,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00020",
+        "bsd": 584,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 1180,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00323",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 65,
+        "weight": 1380,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      },
+      {
+        "manufacturerProductCode": "11A00025",
+        "bsd": 622,
+        "type": "tubeless",
+        "width": 57,
+        "weight": 1230,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": null
+      }
+    ],
+    "application": [
+      "singletrack"
+    ]
+  },
+  {
+    "id": "903417ec-752e-49c5-8313-1b414179d0c6",
+    "manufacturerCode": "vittoria",
+    "manufacturerProductCode": null,
+    "name": "Rubino Pro Speed",
+    "sizes": [
+      {
+        "manufacturerProductCode": "11A00155",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 23,
+        "weight": 190,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 220
+      },
+      {
+        "manufacturerProductCode": "11A00156",
+        "bsd": 622,
+        "type": "clincher",
+        "width": 25,
+        "weight": 200,
+        "treadColor": "black",
+        "sidewallColor": "black",
+        "tpi": 220
+      }
+    ],
+    "application": [
+      "road"
     ]
   },
   {
